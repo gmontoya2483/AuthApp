@@ -1,27 +1,28 @@
 # AuthApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.2.
+## Description
+
+Proyecto AuthServer del curso "Angular: Decero a experto (Edición 2021)".
+FrontEnd para el registro y la  autenticacion de usuarios
+
+## Temas Cubiertos en esta aplicación:
+* Conectar Angular con nuestro backend
+* Manejo de JWT
+* Lazyload y rutas
+* Guards
+* Mantener el estado del usuario
+* Manejo de errores
+* RXJS y Operadores
+* [SweetAlert2](https://sweetalert2.github.io/)
+
 
 ## Development server
+Ejecutar`ng serve` para el servidor de desarrollo. Navegar a  `http://localhost:4200/`. La aplicación será automaticamente recargada si se realizan cambios en el código fuente.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+## Backend Server
+[AuthServer](https://github.com/gmontoya2483/AuthServer)
 
-## Code scaffolding
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Application en producción
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+TDB
